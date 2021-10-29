@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <!--要想用父工程管理下面3个工程，（即让提供者和消费者继承它，接口工程创建时已经指定了父工程），就要先让父工程变成springboot工程-->
-
+<!--2021-10-29 16:21:41测试提交-->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
